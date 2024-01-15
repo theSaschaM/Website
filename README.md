@@ -10,16 +10,16 @@ This repository hosts my personal website. The website is designed to showcase m
 
 ### Libraries and Frameworks
 
-- AOS (Animate On Scroll)
-- Bootstrap
-- Bootstrap Icons
-- Boxicons
-- GLightbox
-- Swiper
-- Typed.js
-- Purecounter
-- Isotope
-- Waypoints
+- [AOS (Animate On Scroll)](https://michalsnik.github.io/aos/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Bootstrap Icons](https://icons.getbootstrap.com/)
+- [Boxicons](https://boxicons.com/)
+- [GLightbox](https://biati-digital.github.io/glightbox/)
+- [Swiper](https://swiperjs.com/)
+- [Typed.js](https://github.com/mattboldt/typed.js/)
+- [Purecounter](https://github.com/dstnly/purecounter)
+- [Isotope](https://isotope.metafizzy.co/)
+- [Waypoints](http://imakewebthings.com/waypoints/)
 
 ## Overview
 
