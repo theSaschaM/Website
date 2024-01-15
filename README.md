@@ -4,9 +4,10 @@ This repository hosts my personal website. The website is designed to showcase m
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
+- [HTML](https://www.wikiwand.com/de/HTML)
+- [CSS](https://www.wikiwand.com/de/Cascading_Style_Sheets)
+- [JavaScript](https://www.wikiwand.com/de/JavaScript)
+
 
 ### Libraries and Frameworks
 
